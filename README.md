@@ -9,7 +9,7 @@ GITHUB : https://github.com/ahmadzip/Arduino-Remote-Monitoring-Telegram
 
 ## 📋 Overview Proyek
 
-Sistem IoT real-time untuk memantau suhu & kelembaban menggunakan:
+Proyek ini bertujuan untuk membuat sistem monitoring suhu dan kelembaban menggunakan sensor DHT22 yang terhubung dengan ESP32. Data yang diperoleh akan dikirimkan ke Telegram Bot, memungkinkan pengguna untuk memantau kondisi lingkungan secara real-time. Selain itu, proyek ini juga menyediakan kontrol LED sebagai simulasi pengendalian perangkat jarak jauh.
 
 - **Sensor DHT22**
 - **ESP32** (Modul WiFi)
